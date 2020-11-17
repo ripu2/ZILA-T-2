@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+body{
+    margin: 0;
+    overflow-x: hidden;
+    min-height: 100%;
+    display: flex !important;
+    flex-direction: column !important;
+    text-align: justify;
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png") !important;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+Footer{
+    padding: 3em;
+    margin-top: auto !important;
+    width: 100vw;
+    background-color: black !important;
+}
+.footerText{
+    text-align: center;
+    color: wheat;
+}
+.navbar{
+    background-color: rgba(0,0,0,0.2);
+    color: wheat !important;   
+    font-family: 'Open Sans Condensed', sans-serif !important; 
+    letter-spacing: 5px;
+}
+
+.navbar a {
+    color: black;
+}
+.file-wrapper{
+    margin-top: -10em !important;
+    width: 100%;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-family: 'Open Sans Condensed', sans-serif !important; 
+}
+.main{
+    background-color: #222831;
+    color: whitesmoke;
+    font-weight: 100 !important;
+    padding: 2em;
+    border-radius: 0.7em;
+    width: 40%;
+    margin-top: 20%;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    
+}
